@@ -1,0 +1,11 @@
+{
+    "name": "btcrelax/site",
+    "description": "Description of project dev.",
+    "authors": [
+        {
+            "name": "godJah",
+            "email": "god@fastfen.club"
+        }
+    ],
+    "require": {}
+}
