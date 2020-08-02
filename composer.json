@@ -1,11 +1,18 @@
 {
     "name": "btcrelax/site",
-    "description": "Description of project dev.",
+    "type": "library",
+    "version": "v1.0.0",
+    "description": "BtcRelax Shop  site",
+    "keywords": ["web service"],
+    "homepage": "http://fastfen.club/",
+    "license": "Unlicense",
     "authors": [
         {
             "name": "godJah",
             "email": "god@fastfen.club"
         }
     ],
-    "require": {}
+    "require": {
+      "php": "^7.4"
+    }
 }
