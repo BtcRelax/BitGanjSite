@@ -5,6 +5,7 @@
     "description": "BtcRelax Shop  site",
     "keywords": ["web service"],
     "homepage": "http://fastfen.club/",
+    "minimum-stability": "dev",
     "license": "Unlicense",
     "authors": [
         {
@@ -13,6 +14,7 @@
         }
     ],
     "require": {
-      "php": "^7.4"
+      "php": "^7.4",
+        "btcrelax/bitganj-core": "dev-master"
     }
 }
