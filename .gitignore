@@ -3,7 +3,4 @@
 composer.lock
 /vendor/**/.git
 /nbproject/**
-.vs/Site/v16/.suo
-.vs/slnx.sqlite
-.gitignore
-.vs/VSWorkspaceState.json
+/.vs/**
