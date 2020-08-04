@@ -1,6 +1,5 @@
-/nbproject/private/
+/nbproject/
 /vendor/
 composer.lock
-/nbproject/private/
 /vendor/**/.git
 /nbproject/**
