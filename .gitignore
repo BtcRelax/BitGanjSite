@@ -3,3 +3,4 @@
 composer.lock
 /nbproject/private/
 /vendor/**/.git
+/nbproject/**
