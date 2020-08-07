@@ -12,6 +12,13 @@
 
         },
         {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "url": "http://site.ad",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
             "name": "Launch currently open script",
             "type": "php",
             "request": "launch",
