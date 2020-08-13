@@ -4,3 +4,4 @@ composer.lock
 /vendor/**/.git
 /nbproject/**
 /.vs/**
+.php_cs.cache
