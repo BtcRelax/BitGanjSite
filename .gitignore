@@ -5,3 +5,4 @@ composer.lock
 /nbproject/**
 /.vs/**
 .php_cs.cache
+*.cache
