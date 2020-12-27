@@ -1,6 +1,6 @@
 {
     "name": "btcrelax/site",
-    "type": "library",
+    "type": "project",
     "version": "v1.0.0",
     "description": "BtcRelax Shop  site",
     "keywords": ["web service"],
@@ -14,7 +14,6 @@
         }
     ],
     "require": {
-      "php": "^7.4",
-      "btcrelax/bitganj-core": "*"
+      "php": "^7.4"
     }
 }
