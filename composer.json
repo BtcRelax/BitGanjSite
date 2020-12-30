@@ -14,6 +14,6 @@
     ],
     "require": {
       "php": "^7.4",
-      "btcrelax/bitganj-core": "* v1.0.1"
+      "btcrelax/bitganj-core": "1.0.1.x-dev"
     }
 }
